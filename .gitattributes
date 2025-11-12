@@ -16,3 +16,4 @@
 **.jar filter=lfs diff=lfs merge=lfs -text
 **.Json filter=lfs diff=lfs merge=lfs -text
 **.text filter=lfs diff=lfs merge=lfs -text
+**.apk filter-lfs diff=lfs merge=lfs  -text
