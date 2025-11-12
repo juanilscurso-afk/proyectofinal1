@@ -1,0 +1,1 @@
+La demo informa de las características de un estimulante con un elevado porcentaje de consumo, como es la cocaína, por medio de videos. La experiencia es una interpretación audiovisual de los efectos generales que produce la sustancia,  aplicados a la realidad mixta por medio de la cámara de Meta Quest 3S o compatibles, que se utiliza para generar la vista del usuario.
