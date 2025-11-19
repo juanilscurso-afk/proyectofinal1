@@ -8,13 +8,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/EXPERIENCIA.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/RELAXEXPERIENCIA.unity
     guid: 7ba253efddd10aa42816749b43950805
   - enabled: 0
     path: Assets/Scenes/INICIO.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/SALIDA RELAX.unity
     guid: a574d2e87ec3dc84a9b421788e46f1cf
   m_configObjects:

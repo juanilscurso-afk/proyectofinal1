@@ -1750,8 +1750,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 45fb38f1fc8f29f48a57ae2e17a91f4c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: RELAXEXPERIENCIA
-  delayInSeconds: 60
+  sceneName: SALIDA RELAX
+  delayInSeconds: 10
 --- !u!4 &782628377
 Transform:
   m_ObjectHideFlags: 0
